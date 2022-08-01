@@ -1,0 +1,32 @@
+body {
+  font-family: Georgia, serif;
+}
+
+table, th, td {
+  margin: 10px auto;
+  border: 2px solid blue;
+}
+
+thead {
+  background-color: darkslateblue;
+  color:white;
+  text-align: center;
+}
+tbody
+{
+  background-color: aliceblue;
+  color:black;
+  text-align: center;
+}
+
+#selector {
+  width: 20%;
+}
+
+#format{
+  width:20%;
+}
+
+#specificity {
+  width:40%;
+}
